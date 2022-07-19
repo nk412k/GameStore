@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/gamestore.github.io/static/css/main.6386be12.css",
-    "main.js": "/gamestore.github.io/static/js/main.ad62be21.js",
-    "index.html": "/gamestore.github.io/index.html",
-    "main.6386be12.css.map": "/gamestore.github.io/static/css/main.6386be12.css.map",
-    "main.ad62be21.js.map": "/gamestore.github.io/static/js/main.ad62be21.js.map"
+    "main.css": "/GameStore/static/css/main.6386be12.css",
+    "main.js": "/GameStore/static/js/main.ad62be21.js",
+    "index.html": "/GameStore/index.html",
+    "main.6386be12.css.map": "/GameStore/static/css/main.6386be12.css.map",
+    "main.ad62be21.js.map": "/GameStore/static/js/main.ad62be21.js.map"
   },
   "entrypoints": [
     "static/css/main.6386be12.css",
